@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=jupiterrs&theme=highcontrast&show_icons=true&count_private=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jupiterrs"/>
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jupiterrs&repo=repo-name&show_owner=true)](https://github.com/jupiterrs/nvim_config)
 
 <!--
 **jupiterrs/jupiterrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
